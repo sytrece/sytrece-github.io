@@ -5,15 +5,15 @@
   
   <entry>
     <title>halo.md</title>
-    <link href="/2022/03/09/halo-md/"/>
-    <url>/2022/03/09/halo-md/</url>
+    <link href="/2022/03/09/No.2/"/>
+    <url>/2022/03/09/No.2/</url>
     
-    <content type="html"><![CDATA[<p><img src="/2022/03/09/halo-md/111.jpg" alt="111"></p><p>oooooooooo</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/03/09/No.2/111.jpg" alt="111"></p>]]></content>
     
     
     <categories>
       
-      <category>文章</category>
+      <category>two</category>
       
     </categories>
     
@@ -24,15 +24,15 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/2022/03/07/hello-world/"/>
-    <url>/2022/03/07/hello-world/</url>
+    <link href="/2022/03/07/No.1/"/>
+    <url>/2022/03/07/No.1/</url>
     
-    <content type="html"><![CDATA[<h1 id="hi"><a href="#hi" class="headerlink" title="hi"></a>hi</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="crazy"><a href="#crazy" class="headerlink" title="crazy"></a>crazy</h1><p>v me 50</p>]]></content>
     
     
     <categories>
       
-      <category>测试</category>
+      <category>one</category>
       
     </categories>
     
